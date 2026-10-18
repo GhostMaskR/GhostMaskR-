@@ -1,98 +1,122 @@
-<!--
-GhostMaskR | Animated Cybersecurity GitHub Profile README
-Paste this into README.md in the special profile repository: GhostMaskR/GhostMaskR
-Keep the project repository GhostMaskR/GhostMask separate.
--->
+# 👻 GhostMaskR
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:480000,100:ff0000&height=220&section=header&text=GhostMaskR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WEB%20SECURITY%20%7C%20RECON%20%7C%20SECURITY%20TOOLING&descAlignY=60&descSize=16" width="100%" alt="GhostMaskR Cybersecurity Banner"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030303,35:280000,70:8B0000,100:FF2020&text=GhostMaskR&fontColor=FFFFFF&fontSize=64&fontAlignY=36&animation=fadeIn&desc=WEB%20SECURITY%20%7C%20RECON%20%7C%20SECURITY%20TOOLING&descAlignY=59&descSize=16" alt="GhostMaskR animated red cyber banner" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF3030&center=true&vCenter=true&width=650&lines=LEARN+%E2%80%A2+TEST+WITH+PERMISSION+%E2%80%A2+SECURE;Web+Application+Security;Reconnaissance+%26+Security+Tooling;Build.+Test.+Secure." alt="Animated typing text"/>
+</p>
 
-<a href="https://github.com/GhostMaskR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=750&color=FF3030&center=true&vCenter=true&width=800&lines=Initializing+GhostMaskR...;Web+Application+Security+%7C+WAPT;Reconnaissance+%7C+Linux+%7C+Security+Tools;Learn+%E2%80%A2+Test+with+Permission+%E2%80%A2+Secure" alt="Animated typing text" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-WEB%20SECURITY-red?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOMAIN-RECON-black?style=for-the-badge&logo=target&logoColor=red"/>
+  <img src="https://img.shields.io/badge/MINDSET-ETHICAL%20HACKING-darkred?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=GhostMaskR&style=for-the-badge&color=8B0000&label=PROFILE+SCANS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/GhostMaskR?style=for-the-badge&logo=github&label=FOLLOWERS&color=111111&labelColor=8B0000" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/GhostMaskR?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=STARS&color=111111&labelColor=8B0000" alt="GitHub stars" />
+---
 
-ROHIT KUSHWAH · Cybersecurity Student · WAPT · Network Security
- PROJECTS 　 GHOSTMASK REPO 　 LINKEDIN 
-</div>
+## ⚡ About GhostMaskR
 
-root@ghostmask:~# whoami
-┌──(ghostmask㉿security-lab)-[~]
-└─$ whoami
-Rohit Kushwah | GhostMaskR
+**GhostMaskR** is my cybersecurity identity focused on web application security, reconnaissance, penetration testing, network security, and security tool development.
 
-└─$ mission
-Learn web security. Build practical tools. Report findings responsibly.
+My objective is to understand vulnerabilities, develop practical security skills, and build tools that help identify and improve security weaknesses.
 
-└─$ scope
-Authorized labs • CTFs • Systems with explicit permission
-I am a cybersecurity student focused on Web Application Penetration Testing (WAPT), reconnaissance, network security, and practical security tooling. I document what I learn and build tools for controlled, authorized security testing.
-RULE OF ENGAGEMENT: I test only systems I own or have explicit permission to assess.
+- 🔴 **Focus:** Web Application Penetration Testing (WAPT)
+- 🕸️ **Interests:** Reconnaissance, OWASP Top 10, Network Security
+- 🛠️ **Building:** Cybersecurity tools and security projects
+- 🎯 **Goal:** Learn, test with permission, and secure systems
+- 🛡️ **Ethics:** Authorized testing and responsible disclosure
 
-./active_modules — Current Focus
-<div align="center">
+---
 
-MODULE	STATUS / FOCUS
-WEB-SECURITY	OWASP Top 10, authentication, access control, input validation
-RECON	DNS, subdomains, HTTP probing, endpoint discovery
-TOOLING	Python, Bash, automation, readable CLI output
-TRAFFIC-ANALYSIS	HTTP requests/responses, evidence collection
-REPORTING	Reproducible findings, impact, remediation guidance
+## 🧰 Security Arsenal
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-CC0000?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
-</div>
+---
 
-ls -la ./projects
-<div align="center">
+## 🎯 Core Domains
 
-<a href="https://github.com/GhostMaskR/GhostMask">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostMaskR&repo=GhostMask&theme=transparent&hide_border=true&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9" alt="GhostMask repository card" />
-</a>
+| Domain | Focus Areas |
+|:---|:---|
+| Web Security | OWASP Top 10, authentication, access control |
+| Reconnaissance | Asset discovery, enumeration, information gathering |
+| Penetration Testing | Authorized testing and vulnerability validation |
+| Network Security | Network protocols, services, security analysis |
+| Security Tooling | Python-based security utilities and automation |
+| Reporting | Findings, impact, evidence, remediation |
 
-<a href="https://github.com/GhostMaskR?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL_SECURITY_PROJECTS-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
+---
 
-</div>
+## 🔥 Featured Projects
 
-cat /etc/toolkit
-<div align="center">
+<p align="center">
+  <a href="https://github.com/TocsiVector/ScanR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=ScanR&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&border_color=700000" alt="ScanR Project"/>
+  </a>
+  <a href="https://github.com/TocsiVector/SmartSpamR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=SmartSpamR&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&border_color=700000" alt="SmartSpamR Project"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/GhostMaskR/GhostMaskR-">
+    <img src="https://img.shields.io/badge/GhostMaskR-Repository-ff0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/TocsiVector">
+    <img src="https://img.shields.io/badge/Developer-TocsiVector-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
+---
 
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GhostMaskR&show_icons=true&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&text_color=dddddd&border_color=700000&hide_border=false" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMaskR&layout=compact&theme=dark&bg_color=080808&title_color=ff3030&text_color=dddddd&border_color=700000" alt="Most Used Languages"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostMaskR&theme=dark&background=080808&ring=ff3030&fire=ff0000&currStreakLabel=ff3030&sideLabels=dddddd&border=700000" width="90%" alt="GitHub Contribution Streak"/>
+</p>
 
+---
 
+## 🐍 Contribution Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</p>
 
+---
 
-</div>
+## 🌐 Connect
 
-Tools practiced: Burp Suite, Nmap, Subfinder, httpx, Nuclei, ffuf, Wireshark, and Linux command-line utilities. Use them only within authorized scope.
-./system_stats — GitHub Analytics
-<div align="center">
+<p align="center">
+  <a href="https://github.com/GhostMaskR">
+    <img src="https://img.shields.io/badge/GitHub-GhostMaskR-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-kushwah-386493335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit_Kushwah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GhostMaskR&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3030&icon_color=FF3030&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMaskR&layout=compact&hide_border=true&bg_color=050505&title_color=FF3030&text_color=C9D1D9" alt="Top languages" />
+---
 
-<img width="75%" src="https://streak-stats.demolab.com?user=GhostMaskR&hide_border=true&background=050505&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8E8E8E" alt="GitHub contribution streak" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:480000,100:050505&height=120&section=footer" width="100%" alt="Red animated footer"/>
+</p>
 
-</div>
-
-connect --securely
-- GitHub: @GhostMaskR
-- Repositories: Security projects and experiments
-- LinkedIn: Rohit Kushwah
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=900&color=FF3030&center=true&vCenter=true&width=650&lines=Curiosity+%3E+Testing+%3E+Evidence;Think+like+a+tester.+Build+like+an+engineer.;Stay+ethical.+Keep+learning." alt="Animated closing line" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF2020,45:8B0000,100:030303" alt="Red cyber footer" />
-
-<sub>AUTHORIZED TESTING ONLY · RESPONSIBLE DISCLOSURE · CONTINUOUS LEARNING</sub>
-</div>
+<p align="center">
+  <b>LEARN • TEST WITH PERMISSION • SECURE</b><br/>
+  <sub>GhostMaskR | Web Security & Reconnaissance</sub>
+</p>
