@@ -51,10 +51,40 @@
 | [🧠 Skill Tree](#skilltree) | [🔄 Methodology](#methodology) | [🚀 Projects](#projects) | [🧪 Code Lab](#codelab) |
 | [🛡️ OWASP](#owasp) | [📒 Cheat Sheets](#cheatsheets) | [🗺️ Roadmap](#roadmap) | [🏆 Goals](#goals) |
 | [📊 Stats](#stats) | [🌐 Labs](#labs) | [🤝 Connect](#connect) | [🐍 Snake Game](#snake) |
+| [📡 Tech Radar](#radar) | [🗓️ Routine](#routine) | [📚 Library](#library) | [❓ FAQ](#faq) |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- ───────────── AT A GLANCE ───────────── -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><h2>🎓</h2><b>Student</b><br/><sub>Cybersecurity</sub></td>
+<td align="center" width="25%"><h2>🕷️</h2><b>Speciality</b><br/><sub>Web App Pentesting</sub></td>
+<td align="center" width="25%"><h2>🛠️</h2><b>Builder</b><br/><sub>Security tools in Python</sub></td>
+<td align="center" width="25%"><h2>🧪</h2><b>Practising</b><br/><sub>OWASP · Recon · Labs</sub></td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/PROJECTS-2-00FF9C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LANGUAGES-8-00FF9C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ETHICS-FIRST-FF3030?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-00E5FF?style=flat-square&labelColor=0D1117"/>
+
+</div>
+
+### ⚡ Currently
+
+```yaml
+now:
+  learning:    OWASP Top 10 · Burp Suite workflow
+  building:    Security tools in Python
+  practising:  PortSwigger Academy & TryHackMe rooms
+  improving:   Recon methodology · report writing
+  next_up:     API security · Docker · cloud basics
+```
 
 <!-- ───────────── WHOAMI ───────────── -->
 
@@ -103,8 +133,6 @@ identity:
 - 💬 Ask me about **Linux, networking, reconnaissance, WAPT fundamentals** and **security tooling**.
 - 🎯 **Goal:** build real, practical security skills — and useful open-source security projects.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <!-- ───────────── MISSION ───────────── -->
 
 <a id="mission"></a>
@@ -127,8 +155,6 @@ identity:
 | 5 | **Document everything** | Clear evidence and reproducible steps make a useful report |
 | 6 | **Disclose responsibly** | Give owners time and detail to fix before anything goes public |
 | 7 | **Keep learning** | Threats evolve — so must defenders |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- ───────────── ARSENAL ───────────── -->
 
@@ -167,8 +193,6 @@ identity:
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode&theme=dark"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- ───────────── LANGUAGES ───────────── -->
 
@@ -209,8 +233,6 @@ SQL         ██████░░░░  60%   database basics · injection d
 | <img src="https://skillicons.dev/icons?i=c" width="32"/> **C** | Learning memory, pointers and why low-level bugs happen |
 | <img src="https://skillicons.dev/icons?i=java" width="32"/> **Java** | OOP, enterprise apps and secure crypto API usage |
 | <img src="https://skillicons.dev/icons?i=cs" width="32"/> **C#** | .NET apps, parameterised queries, Windows ecosystem basics |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- ───────────── SKILL TREE ───────────── -->
 
@@ -261,7 +283,17 @@ mindmap
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- ───────────── TECH RADAR ───────────── -->
+
+<a id="radar"></a>
+## 📡 Tech Radar
+
+| Ring | Technologies | Meaning |
+|:----:|--------------|---------|
+| 🟢 **Adopt** | Linux · Python · Bash · Nmap · Burp Suite · Git | Daily drivers I trust |
+| 🔵 **Trial** | Nuclei · Wireshark · SQL · JavaScript internals | Using regularly, still maturing |
+| 🟡 **Learning** | OWASP depth · authentication flaws · API testing | Active study right now |
+| ⚪ **Next** | Docker · cloud security · CI/CD security · threat modelling | On the horizon |
 
 <!-- ───────────── METHODOLOGY ───────────── -->
 
@@ -339,21 +371,6 @@ flowchart LR
 | **Why I built it** | Spam and phishing are the most common entry point for attacks |
 | **What I learn** | Text processing, feature extraction, model evaluation |
 
-### 🔮 Project Pipeline
-
-```mermaid
-flowchart TD
-    I[Idea] --> P[Plan & Design]
-    P --> B[Build in Python]
-    B --> T[Test in a safe lab]
-    T --> D[Document & Publish]
-    D --> F[Feedback & Iterate]
-    F --> P
-    style I fill:#000,color:#00FF9C,stroke:#00FF9C
-    style B fill:#064d22,color:#fff,stroke:#00FF9C
-    style D fill:#00FF9C,color:#000,stroke:#00FF9C
-```
-
 **Ideas on my build list:**
 
 - [ ] Recon helper that organises results into a clean report
@@ -361,8 +378,6 @@ flowchart TD
 - [ ] Security-headers checker for websites I am authorised to test
 - [ ] Password-policy & hash-identification helper
 - [ ] Small lab environment scripts for practice
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- ───────────── CODE LAB ───────────── -->
 
@@ -625,8 +640,6 @@ pie showData title Where I'm practising most (approx.)
     "Reporting" : 15
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <!-- ───────────── CHEAT SHEETS ───────────── -->
 
 <a id="cheatsheets"></a>
@@ -700,36 +713,6 @@ nmap -sV -sC -T4 -oN lab_scan.txt 192.168.56.101
 </details>
 
 <details>
-<summary><b>🌐 HTTP status codes</b></summary>
-
-| Range | Meaning | Examples |
-|:-----:|---------|----------|
-| **1xx** | Informational | `100 Continue` |
-| **2xx** | Success | `200 OK`, `201 Created`, `204 No Content` |
-| **3xx** | Redirection | `301 Moved`, `302 Found`, `304 Not Modified` |
-| **4xx** | Client error | `400 Bad Request`, `401 Unauthorized`, `403 Forbidden`, `404 Not Found`, `429 Too Many Requests` |
-| **5xx** | Server error | `500 Internal Error`, `502 Bad Gateway`, `503 Unavailable` |
-
-</details>
-
-<details>
-<summary><b>🔑 CIA triad & core security terms</b></summary>
-
-| Term | Meaning |
-|------|---------|
-| **Confidentiality** | Only authorised people can read the data |
-| **Integrity** | Data cannot be changed without detection |
-| **Availability** | Systems are reachable when needed |
-| **Authentication** | Proving who you are |
-| **Authorisation** | What you are allowed to do |
-| **Non-repudiation** | Actions cannot be convincingly denied |
-| **Least privilege** | Give only the access that is needed |
-| **Defence in depth** | Multiple layers of protection |
-| **Threat / Vulnerability / Risk** | Who could harm / what is weak / likelihood × impact |
-
-</details>
-
-<details>
 <summary><b>🧾 Web-test checklist (for authorised assessments)</b></summary>
 
 - [ ] Confirm scope, test window and permission in writing
@@ -778,6 +761,36 @@ OWASP, CWE, vendor docs.
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ───────────── ROUTINE ───────────── -->
+
+<a id="routine"></a>
+## 🗓️ Weekly Routine
+
+| Day | Focus | Output |
+|:---:|-------|--------|
+| **Mon** | Recon & enumeration practice | Notes on new techniques |
+| **Tue** | Web labs (PortSwigger / THM) | 1–2 labs solved |
+| **Wed** | Networking & traffic analysis | Wireshark / Nmap write-up |
+| **Thu** | Coding security tools | Commits to ScanR / SmartSpamR |
+| **Fri** | Reporting practice | One clean mock finding |
+| **Sat** | CTF / lab rooms | Challenge solved or analysed |
+| **Sun** | Review & rest | Plan for the next week |
+
+> *Consistency beats intensity — small daily progress compounds.*
+
+<!-- ───────────── LIBRARY ───────────── -->
+
+<a id="library"></a>
+## 📚 Library — What I Read & Recommend
+
+| Book | Author | Why it helps |
+|------|--------|--------------|
+| *The Web Application Hacker's Handbook* | Dafydd Stuttard & Marcus Pinto | Foundation for web app testing |
+| *Real-World Bug Hunting* | Peter Yaworski | How real vulnerabilities are found and reported |
+| *Linux Basics for Hackers* | OccupyTheWeb | Comfort in the Linux terminal |
+| *Black Hat Python* | Justin Seitz | Python for security tooling |
+| *Serious Cryptography* | Jean-Philippe Aumasson | Understanding crypto the right way |
 
 <!-- ───────────── ROADMAP ───────────── -->
 
@@ -830,8 +843,6 @@ gantt
 - [ ] Publish a recon / reporting automation tool
 - [ ] Contribute to an open-source security project
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <!-- ───────────── GOALS ───────────── -->
 
 <a id="goals"></a>
@@ -862,8 +873,6 @@ gantt
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <!-- ───────────── LABS ───────────── -->
 
 <a id="labs"></a>
@@ -890,6 +899,46 @@ gantt
 
 </div>
 
+<!-- ───────────── FAQ ───────────── -->
+
+<a id="faq"></a>
+## ❓ FAQ
+
+<details>
+<summary><b>Do you test systems without permission?</b></summary>
+
+Never. I only practise on my own labs, intentionally vulnerable platforms, or targets where I have **written authorisation**.
+
+</details>
+
+<details>
+<summary><b>What should I message you about?</b></summary>
+
+Linux, networking, recon basics, WAPT fundamentals, security tooling, lab ideas, CTF teamwork or open-source collaboration.
+
+</details>
+
+<details>
+<summary><b>Where should a beginner in cybersecurity start?</b></summary>
+
+Linux and networking first, then web basics (HTTP, HTML, JavaScript), then OWASP Top 10 with hands-on labs on PortSwigger Academy and TryHackMe.
+
+</details>
+
+<details>
+<summary><b>Which tools do you use most?</b></summary>
+
+Kali Linux, Burp Suite, Nmap, Nuclei, Wireshark and Python for custom automation.
+
+</details>
+
+<details>
+<summary><b>Are your projects open source?</b></summary>
+
+Yes — see [ScanR](https://github.com/TocsiVector/ScanR) and [SmartSpamR](https://github.com/TocsiVector/SmartSpamR). Issues and ideas are welcome.
+
+</details>
+
 <!-- ───────────── CONNECT ───────────── -->
 
 <a id="connect"></a>
@@ -907,7 +956,16 @@ gantt
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+```text
+┌─────────────────────────────────────────────────┐
+│  GhostMaskR  ::  contact                        │
+├─────────────────────────────────────────────────┤
+│  github    github.com/GhostMaskR                │
+│  projects  github.com/TocsiVector               │
+│  linkedin  /in/rohit-kushwah-386493335          │
+│  status    open to labs · CTFs · collaboration  │
+└─────────────────────────────────────────────────┘
+```
 
 <!-- ───────────── SNAKE GAME ───────────── -->
 
