@@ -1,66 +1,87 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:180000,70:8B0000,100:FF0000&height=240&section=header&text=GhostMaskR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20RECON&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:160000,80:8B0000,100:FF0000&height=230&section=header&text=GhostMaskR&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20RECON&descAlignY=60&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=600&color=FF2222&center=true&vCenter=true&width=750&lines=INITIALIZING+GHOSTMASKR...;CYBER+SECURITY+%7C+WEB+PENTESTING;RECONNAISSANCE+%7C+VULNERABILITY+RESEARCH;THINK+LIKE+AN+ATTACKER.+DEFEND+LIKE+A+PRO.;LEARN.+TEST+WITH+PERMISSION.+SECURE." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2000&pause=600&color=FF3030&center=true&vCenter=true&width=850&lines=INITIALIZING+GHOSTMASKR...;ACCESSING+CYBER+DOMAIN...;WEB+APPLICATION+SECURITY;RECONNAISSANCE+%7C+PENTESTING;THINK+LIKE+AN+ATTACKER;LEARN+%E2%80%A2+TEST+WITH+PERMISSION+%E2%80%A2+SECURE" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDENTITY-GHOSTMASKR-ff0000?style=for-the-badge&logo=ghost&logoColor=white"/>
-<img src="https://img.shields.io/badge/MODE-CYBER%20SECURITY-111111?style=for-the-badge&logo=kalilinux&logoColor=red"/>
-<img src="https://img.shields.io/badge/ACCESS-ETHICAL%20ONLY-5b0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/GHOSTMASKR-CYBER%20IDENTITY-ff0000?style=for-the-badge&logo=ghost&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEB-SECURITY-111111?style=for-the-badge&logo=owasp&logoColor=red"/>
+<img src="https://img.shields.io/badge/RECON-ENABLED-330000?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETHICAL-TESTING-161616?style=for-the-badge&logo=hackthebox&logoColor=9fef00"/>
 
 </div>
 
 ---
 
+<h2 align="center">👾 WELCOME TO THE DARK SIDE</h2>
+
 <div align="center">
 
-## `> WHOAMI`
+<img width="100%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Cyber hacker animation"/>
 
-**ROHIT KUSHWAH | GhostMaskR**
+<br/>
 
-*Cybersecurity Student • Web Application Penetration Testing • Security Tool Developer*
+**ROHIT KUSHWAH — GhostMaskR**
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="220" alt="Cyber themed animated GIF"/>
+*Cybersecurity Student | WAPT | Security Research | Tool Development*
 
 </div>
 
-I work on understanding how systems fail, how vulnerabilities are discovered, and how security can be improved through authorized testing.
-
 ```text
-[+] Identity       : GhostMaskR
-[+] Primary Focus  : Cyber Security
-[+] Specialization : Web Application Security
-[+] Interests      : Recon | Pentesting | Network Security
-[+] Development    : Security Tools & Automation
-[+] Philosophy     : Learn | Test with Permission | Secure
+┌──────────────────────────────────────────────────────┐
+│                GHOSTMASKR TERMINAL                    │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ghostmaskr@cyber:~$ whoami                          │
+│  > Rohit Kushwah                                     │
+│                                                      │
+│  ghostmaskr@cyber:~$ cat mission.txt                 │
+│  > Learn cybersecurity                               │
+│  > Analyze vulnerabilities                            │
+│  > Develop security tools                            │
+│  > Improve defensive security                        │
+│                                                      │
+│  ghostmaskr@cyber:~$ echo $MISSION                   │
+│  > LEARN | TEST WITH PERMISSION | SECURE             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `01 // CYBER SECURITY DOMAINS`
+## `01 / CYBER WORLD`
 
 <div align="center">
 
-| DOMAIN | OBJECTIVE |
-|:---|:---|
-| 🔴 Web Application Security | Understand and validate web vulnerabilities |
-| 🕸️ Reconnaissance | Discover assets and gather authorized intelligence |
-| 🛡️ Ethical Hacking | Test systems with explicit permission |
-| 🌐 Network Security | Analyze services, protocols and network exposure |
-| ⚙️ Security Automation | Build tools for repeatable security tasks |
-| 📋 Vulnerability Reporting | Document impact, evidence and remediation |
+<img width="48%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Digital technology animation"/>
+<img width="48%" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Cyber code animation"/>
 
 </div>
 
+### About GhostMaskR
+
+GhostMaskR is my cybersecurity identity, focused on web application security, reconnaissance, ethical penetration testing, networking, and security tool development.
+
+- 🔴 Web Application Penetration Testing
+- 🕸️ Reconnaissance and Enumeration
+- 🛡️ OWASP Top 10 and Vulnerability Analysis
+- ⚙️ Security Automation and Tool Development
+- 🌐 Network Security and Linux
+- 📋 Security Assessment and Reporting
+
 ---
 
-## `02 // CYBER TOOLKIT`
+## `02 / THE CYBER ARSENAL`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github,html,css,js&theme=dark" width="95%" alt="Cybersecurity technology icons"/>
+<img width="100%" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Cyber code visual"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github,html,css,js&theme=dark" alt="Technology stack"/>
 
 <br/><br/>
 
@@ -74,137 +95,156 @@ I work on understanding how systems fail, how vulnerabilities are discovered, an
 
 ---
 
-## `03 // GHOSTMASKR CYBER TERMINAL`
+## `03 / MATRIX ACCESS`
 
-```text
-┌────────────────────────────────────────────────────┐
-│             GHOSTMASKR SECURITY TERMINAL           │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  root@ghostmaskr:~$ whoami                         │
-│  GhostMaskR                                       │
-│                                                    │
-│  root@ghostmaskr:~$ cat mission.txt                │
-│  Learn cybersecurity.                              │
-│  Discover vulnerabilities responsibly.             │
-│  Build tools. Improve security.                    │
-│                                                    │
-│  root@ghostmaskr:~$ echo $STATUS                   │
-│  LEARNING • BUILDING • SECURING                    │
-│                                                    │
-└────────────────────────────────────────────────────┘
+<div align="center">
+
+<img width="100%" src="https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif" alt="Digital matrix animation"/>
+
+</div>
+
+```bash
+┌──(ghostmaskr㉿kali)-[~]
+└─$ id
+
+uid=1000(ghostmaskr) gid=1000(ghostmaskr)
+
+┌──(ghostmaskr㉿kali)-[~]
+└─$ cat objectives.txt
+
+[01] Learn Web Security
+[02] Practice in Authorized Labs
+[03] Analyze Vulnerabilities
+[04] Build Security Tools
+[05] Document Findings
+[06] Improve System Security
 ```
 
 ---
 
-## `04 // WEB SECURITY RESEARCH`
+## `04 / WEB APPLICATION SECURITY`
 
 <div align="center">
 
-<a href="https://owasp.org/www-project-top-ten/">
-<img src="https://img.shields.io/badge/OWASP_TOP_10-Study_Now-8B0000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</a>
-
-<a href="https://portswigger.net/web-security">
-<img src="https://img.shields.io/badge/PORTSWIGGER-Web_Security_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-</a>
-
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TRYHACKME-Cyber_Labs-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-</a>
-
-<a href="https://academy.hackthebox.com/">
-<img src="https://img.shields.io/badge/HACK_THE_BOX-Academy-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
-
-<a href="https://www.kali.org/docs/">
-<img src="https://img.shields.io/badge/KALI_LINUX-Documentation-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</a>
-
-<a href="https://nmap.org/book/man.html">
-<img src="https://img.shields.io/badge/NMAP-Official_Guide-214478?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
-</a>
+<img width="100%" src="https://media.giphy.com/media/4bSoQR9w5h0TC/giphy.gif" alt="Cybersecurity digital animation"/>
 
 </div>
 
-### Google Research Shortcuts
+| Research Area | Focus |
+|:---|:---|
+| Injection | Understand and validate injection vulnerabilities |
+| Authentication | Session management and authentication weaknesses |
+| Access Control | Broken access control and authorization testing |
+| XSS | Cross-site scripting prevention and testing |
+| SSRF | Server-side request forgery fundamentals |
+| Recon | Asset discovery and authorized enumeration |
+| Reporting | Evidence, impact, severity, remediation |
 
-Use these links to research cybersecurity topics directly on Google.
+### Official Learning Resources
 
-- [Google — Web Application Penetration Testing](https://www.google.com/search?q=web+application+penetration+testing+methodology)
-- [Google — OWASP Top 10 Explained](https://www.google.com/search?q=OWASP+Top+10+explained)
-- [Google — Reconnaissance Tools](https://www.google.com/search?q=ethical+hacking+reconnaissance+tools)
-- [Google — Linux Security Commands](https://www.google.com/search?q=Kali+Linux+security+commands)
-- [Google — Bug Bounty Methodology](https://www.google.com/search?q=bug+bounty+methodology+authorized+testing)
-- [Google — Network Security](https://www.google.com/search?q=network+security+fundamentals)
-- [Google — Python Security Tools](https://www.google.com/search?q=Python+cybersecurity+automation+projects)
-- [Google — Vulnerability Reporting](https://www.google.com/search?q=professional+penetration+testing+report+template)
+<div align="center">
+
+<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PORTSWIGGER-Web_Security_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+
+<a href="https://owasp.org/www-project-top-ten/"><img src="https://img.shields.io/badge/OWASP-Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/></a>
+
+<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-Practice_Labs-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+
+<a href="https://academy.hackthebox.com/"><img src="https://img.shields.io/badge/HTB-Academy-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+
+<a href="https://www.kali.org/docs/"><img src="https://img.shields.io/badge/Kali_Linux-Documentation-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## `05 // PROJECTS UNDER THE MASK`
+## `05 / GOOGLE CYBER RESEARCH`
+
+Explore different security topics using these direct Google searches.
+
+<div align="center">
+
+<a href="https://www.google.com/search?q=web+application+penetration+testing+methodology"><img src="https://img.shields.io/badge/01-WEB_PENTESTING-8B0000?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.google.com/search?q=ethical+hacking+reconnaissance+tools"><img src="https://img.shields.io/badge/02-RECON_TOOLS-111111?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.google.com/search?q=OWASP+Top+10+explained"><img src="https://img.shields.io/badge/03-OWASP_TOP_10-550000?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.google.com/search?q=Linux+security+commands"><img src="https://img.shields.io/badge/04-LINUX_SECURITY-222222?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.google.com/search?q=network+security+fundamentals"><img src="https://img.shields.io/badge/05-NETWORK_SECURITY-8B0000?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.google.com/search?q=Python+cybersecurity+automation+projects"><img src="https://img.shields.io/badge/06-PYTHON_SECURITY-111111?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.google.com/search?q=bug+bounty+report+examples"><img src="https://img.shields.io/badge/07-BUG_BOUNTY-550000?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.google.com/search?q=penetration+testing+report+template"><img src="https://img.shields.io/badge/08-REPORTING-222222?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+</div>
+
+---
+
+## `06 / PROJECT VAULT`
 
 <div align="center">
 
 <a href="https://github.com/TocsiVector/ScanR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=ScanR&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&border_color=700000" alt="ScanR Project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=ScanR&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&border_color=700000" alt="ScanR repository card"/>
 </a>
 
 <a href="https://github.com/TocsiVector/SmartSpamR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=SmartSpamR&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&border_color=700000" alt="SmartSpamR Project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=SmartSpamR&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&border_color=700000" alt="SmartSpamR repository card"/>
 </a>
-
-</div>
-
----
-
-## `06 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=GhostMaskR&show_icons=true&hide_border=true&bg_color=080808&title_color=ff3030&icon_color=ff3030&text_color=ffffff" alt="GitHub Statistics"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMaskR&layout=compact&hide_border=true&bg_color=080808&title_color=ff3030&text_color=ffffff" alt="Most Used Languages"/>
+<a href="https://github.com/GhostMaskR/GhostMaskR-">
+<img src="https://img.shields.io/badge/GHOSTMASKR-Main_Repository-ff0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## `07 / GITHUB STATISTICS`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=GhostMaskR&show_icons=true&theme=dark&bg_color=080808&title_color=ff3030&icon_color=ff3030&text_color=eeeeee&border_color=700000" alt="GitHub profile statistics"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostMaskR&theme=dark&background=080808&ring=ff0000&fire=ff3030&currStreakLabel=ff3030&sideLabels=ffffff&border=700000" alt="GitHub Streak"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMaskR&layout=compact&theme=dark&bg_color=080808&title_color=ff3030&text_color=eeeeee&border_color=700000" alt="Most used programming languages"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostMaskR&theme=dark&background=080808&ring=ff0000&fire=ff3030&currStreakLabel=ff3030&border=700000" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION MATRIX`
+## `08 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-## `08 // CONNECT TO GHOSTMASKR`
+## `09 / CONNECT WITH THE OPERATOR`
 
 <div align="center">
 
-<a href="https://github.com/GhostMaskR">
-<img src="https://img.shields.io/badge/GitHub-GhostMaskR-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/GhostMaskR"><img src="https://img.shields.io/badge/GitHub-GhostMaskR-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://github.com/TocsiVector">
-<img src="https://img.shields.io/badge/GitHub-TocsiVector-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/TocsiVector"><img src="https://img.shields.io/badge/GitHub-TocsiVector-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/rohit-kushwah-386493335/">
-<img src="https://img.shields.io/badge/LinkedIn-Rohit_Kushwah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/rohit-kushwah-386493335/"><img src="https://img.shields.io/badge/LinkedIn-Rohit_Kushwah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://www.google.com/search?q=GhostMaskR+cybersecurity">
-<img src="https://img.shields.io/badge/Google-Search_GhostMaskR-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
+<a href="https://www.google.com/search?q=GhostMaskR+cybersecurity"><img src="https://img.shields.io/badge/Google-Search_GhostMaskR-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
 
 </div>
 
@@ -212,12 +252,14 @@ Use these links to research cybersecurity topics directly on Google.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:480000,100:000000&height=150&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:480000,100:000000&height=160&section=footer&animation=fadeIn"/>
 
-### `LEARN • TEST WITH PERMISSION • SECURE`
+### `BEYOND THE SURFACE. INTO THE SYSTEM.`
 
-**GhostMaskR — Beyond the Surface. Into the System.**
+**GHOSTMASKR**
 
-<sub>Cybersecurity research and testing must always be performed within authorized environments.</sub>
+`LEARN` • `TEST WITH PERMISSION` • `SECURE`
+
+<sub>Cybersecurity learning, responsible research, and authorized security testing.</sub>
 
 </div>
