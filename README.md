@@ -1,185 +1,162 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:500000,100:FF2020&height=220&section=header&text=GhostMaskR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Beyond%20the%20Surface.%20Into%20the%20System.&descAlignY=60&descSize=18" alt="GhostMaskR banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=GhostMaskR&fontSize=64&fontColor=00E5FF&fontAlignY=42&desc=Cybersecurity%20Student%20%C2%B7%20Web%20App%20Pentesting%20%C2%B7%20Security%20Tooling&descSize=17&descColor=C9D6DF&descAlignY=64" alt="GhostMaskR"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Cybersecurity+Student;%5B%2B%5D+Web+Application+Penetration+Testing;%5B%2B%5D+Reconnaissance+%26+Network+Security;%5B%2B%5D+Security+Tool+Developer;%5B%2B%5D+Learn+%E2%80%A2+Test+With+Permission+%E2%80%A2+Secure" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=780&height=40&lines=Securing+the+web%2C+one+vulnerability+at+a+time;Reconnaissance+%E2%86%92+Enumeration+%E2%86%92+Validation+%E2%86%92+Report;Learn.+Test+with+Permission.+Secure." alt="Typing"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GhostMaskR&label=Profile+Views&color=ff3030&style=for-the-badge" alt="Profile views"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-GhostMaskR-181717?style=for-the-badge&logo=github)](https://github.com/GhostMaskR)
-[![Focus](https://img.shields.io/badge/Focus-Cyber_Security-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/GhostMaskR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-kushwah-386493335/)
+<a href="https://github.com/GhostMaskR"><img src="https://img.shields.io/badge/GitHub-GhostMaskR-0F2027?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/TocsiVector"><img src="https://img.shields.io/badge/Projects-TocsiVector-203A43?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohit-kushwah-386493335/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=GhostMaskR&label=Views&color=00ACC1&style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 👤 Profile
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+| | |
+|---|---|
+| **Role** | Cybersecurity Student |
+| **Specialisation** | Web Application Penetration Testing (WAPT) |
+| **Interests** | Recon, vulnerability assessment, network security |
+| **Building** | Security tools & practical security projects |
+| **Approach** | Ethical, authorised testing only |
+| **Open to** | Labs, CTFs, tool-building collaboration |
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+> *"Learn. Test with Permission. Secure."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🎯 Focus Areas
 
 <div align="center">
 
-<!-- Custom animated hacker terminal (file: assets/terminal.svg) -->
-<img src="assets/terminal.svg" width="800" alt="Animated hacker terminal"/>
+| 🔎 Reconnaissance | 🕷️ Web App Security | 🌐 Network Security | 🧪 Tool Development |
+|:---:|:---:|:---:|:---:|
+| Subdomain, port & service discovery | OWASP Top 10, auth, injection, access control | Scanning, enumeration, traffic analysis | Python-based scanners & automation |
 
 </div>
 
----
-
-## 🔭 About Me
-
-```bash
-root@ghostmaskr:~# cat about.txt
-```
-
-- 🔐 Cybersecurity student focused on **Web Application Penetration Testing (WAPT)**
-- 🕸️ Into reconnaissance, vulnerability assessment & network security
-- 🛠️ Building security tools and practical security projects
-- 🌱 Currently learning web security methodologies & pentesting techniques
-- 👯 Open to collaborating on ethical hacking labs and security tools
-- 💬 Ask me about **Linux, networking, recon, WAPT fundamentals, security tooling**
-- ⚡ Motto: **Learn. Test with Permission. Secure.**
-
----
-
-## 🚀 Projects
+## 🔄 Methodology
 
 <div align="center">
-
-| 🛰️ ScanR | 📧 SmartSpamR | 👻 GhostMaskR |
-|:---:|:---:|:---:|
-| Cybersecurity & threat-intelligence project | AI-based spam detection & threat-intel project | My security-tool development profile |
-| [![ScanR](https://img.shields.io/badge/Open-ScanR-red?style=for-the-badge&logo=github)](https://github.com/TocsiVector/ScanR) | [![SmartSpamR](https://img.shields.io/badge/Open-SmartSpamR-8B0000?style=for-the-badge&logo=github)](https://github.com/TocsiVector/SmartSpamR) | [![GhostMaskR](https://img.shields.io/badge/Open-GhostMaskR-181717?style=for-the-badge&logo=github)](https://github.com/GhostMaskR) |
-
-</div>
-
----
-
-## 🧰 Skills & Technologies
-
-<div align="center">
-
-**Programming & Web**
-
-<img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css,js&theme=dark" alt="Programming"/>
-
-**Cybersecurity & OS**
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash&theme=dark" alt="Security and OS"/>
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Dev tools"/>
-
-**Security Tools**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Nuclei](https://img.shields.io/badge/Nuclei-6D28D9?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```diff
-+ Web Application Penetration Testing
-+ OWASP Top 10
-+ Reconnaissance & Enumeration
-+ Linux & Network Security
-+ Vulnerability Validation & Reporting
-+ Cybersecurity Tool Development
-```
-
----
-
-## 🎯 Learning Roadmap
 
 ```mermaid
 flowchart LR
-    A[Linux & Networking] --> B[Recon & Enumeration]
-    B --> C[OWASP Top 10]
-    C --> D[WAPT with Burp Suite]
-    D --> E[Reporting]
-    E --> F[Security Tool Development]
-    style A fill:#500000,color:#fff
-    style B fill:#500000,color:#fff
-    style C fill:#8B0000,color:#fff
-    style D fill:#8B0000,color:#fff
-    style E fill:#FF2020,color:#fff
-    style F fill:#FF2020,color:#fff
+    A[Scope & Permission] --> B[Recon]
+    B --> C[Enumeration]
+    C --> D[Vulnerability Analysis]
+    D --> E[Validation]
+    E --> F[Reporting]
+    style A fill:#0F2027,color:#00E5FF,stroke:#00E5FF
+    style B fill:#203A43,color:#fff,stroke:#00E5FF
+    style C fill:#203A43,color:#fff,stroke:#00E5FF
+    style D fill:#2C5364,color:#fff,stroke:#00E5FF
+    style E fill:#2C5364,color:#fff,stroke:#00E5FF
+    style F fill:#00ACC1,color:#000,stroke:#00E5FF
 ```
-
----
-
-## 🌐 Practice Platforms
-
-<div align="center">
-
-[![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security_Academy-FF6633?style=for-the-badge)](https://portswigger.net/web-security)
-[![OWASP](https://img.shields.io/badge/OWASP-Top_10-111111?style=for-the-badge)](https://owasp.org/www-project-top-ten/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Practice_Labs-212C42?style=for-the-badge)](https://tryhackme.com/)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Academy-9FEF00?style=for-the-badge)](https://academy.hackthebox.com/)
 
 </div>
 
----
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/TocsiVector/ScanR"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=ScanR&theme=radical&bg_color=0F2027&title_color=00E5FF&icon_color=00E5FF&text_color=C9D6DF&border_color=203A43"/></a>
+<a href="https://github.com/TocsiVector/SmartSpamR"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TocsiVector&repo=SmartSpamR&theme=radical&bg_color=0F2027&title_color=00E5FF&icon_color=00E5FF&text_color=C9D6DF&border_color=203A43"/></a>
+
+</div>
+
+| Project | Description |
+|---|---|
+| [**ScanR**](https://github.com/TocsiVector/ScanR) | Cybersecurity & threat-intelligence project |
+| [**SmartSpamR**](https://github.com/TocsiVector/SmartSpamR) | AI-based spam detection & threat-intelligence project |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css,js,bash&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nuclei-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+
+</div>
+
+## 📈 Learning Progress
+
+<div align="center">
+
+| Topic | Progress |
+|---|---|
+| Linux & Networking | ![](https://geps.dev/progress/65?dangerColor=00ACC1&warningColor=00ACC1&successColor=00ACC1) |
+| Reconnaissance & Enumeration | ![](https://geps.dev/progress/55?dangerColor=00ACC1&warningColor=00ACC1&successColor=00ACC1) |
+| OWASP Top 10 | ![](https://geps.dev/progress/50?dangerColor=00ACC1&warningColor=00ACC1&successColor=00ACC1) |
+| WAPT with Burp Suite | ![](https://geps.dev/progress/45?dangerColor=00ACC1&warningColor=00ACC1&successColor=00ACC1) |
+| Vulnerability Reporting | ![](https://geps.dev/progress/35?dangerColor=00ACC1&warningColor=00ACC1&successColor=00ACC1) |
+
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GhostMaskR&show_icons=true&theme=dark&bg_color=080808&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&hide_border=true" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMaskR&layout=compact&theme=dark&bg_color=080808&title_color=FF3030&text_color=FFFFFF&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GhostMaskR&show_icons=true&theme=radical&bg_color=0F2027&title_color=00E5FF&icon_color=00E5FF&text_color=C9D6DF&border_color=203A43"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMaskR&layout=compact&theme=radical&bg_color=0F2027&title_color=00E5FF&text_color=C9D6DF&border_color=203A43"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostMaskR&theme=dark&background=080808&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&hide_border=true" alt="Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GhostMaskR&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostMaskR&theme=dark&background=0F2027&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&border=203A43"/>
 
 </div>
 
-## 📈 Contribution Activity
+## 🌐 Practice Platforms
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GhostMaskR&bg_color=080808&color=FFFFFF&line=FF3030&point=FF5555&area=true&hide_border=true&custom_title=GhostMaskR%20Contribution%20Activity" alt="Activity graph"/>
+<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-FF6633?style=for-the-badge"/></a>
+<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-Labs-212C42?style=for-the-badge&logo=tryhackme"/></a>
+<a href="https://academy.hackthebox.com/"><img src="https://img.shields.io/badge/Hack_The_Box-Academy-9FEF00?style=for-the-badge&logoColor=black"/></a>
+<a href="https://owasp.org/www-project-top-ten/"><img src="https://img.shields.io/badge/OWASP-Top_10-000000?style=for-the-badge&logo=owasp"/></a>
 
 </div>
 
-## 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/GhostMaskR/GhostMaskR-/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
+### 🤝 Let's Connect
 
-</div>
+<a href="https://www.linkedin.com/in/rohit-kushwah-386493335/"><img src="https://img.shields.io/badge/LinkedIn-Rohit_Kushwah-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/GhostMaskR"><img src="https://img.shields.io/badge/GitHub-GhostMaskR-181717?style=for-the-badge&logo=github"/></a>
 
----
+<sub>**GhostMaskR** · Beyond the Surface. Into the System.</sub>
 
-## 💭 Hacker Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote"/>
-
-</div>
-
----
-
-## 🌐 Find Me Online
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-GhostMaskR-181717?style=for-the-badge&logo=github)](https://github.com/GhostMaskR)
-[![Projects](https://img.shields.io/badge/Projects-TocsiVector-181717?style=for-the-badge&logo=github)](https://github.com/TocsiVector)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-kushwah-386493335/)
-
-### 🔴 LEARN • TEST WITH PERMISSION • SECURE
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:500000,100:050505&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer"/>
 
 </div>
