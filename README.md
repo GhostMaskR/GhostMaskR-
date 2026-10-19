@@ -77,6 +77,10 @@
 
 ### ⚡ Currently
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ```yaml
 now:
   learning:    OWASP Top 10 · Burp Suite workflow
@@ -85,6 +89,15 @@ now:
   improving:   Recon methodology · report writing
   next_up:     API security · Docker · cloud basics
 ```
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <!-- ───────────── WHOAMI ───────────── -->
 
@@ -117,7 +130,7 @@ identity:
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="100%"/>
 
 </td>
 </tr>
@@ -137,6 +150,8 @@ identity:
 
 <a id="mission"></a>
 ## 🎯 Mission & Rules of Engagement
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Think+first.+Test+with+permission." alt=""/><br/><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="340" alt=""/></div>
 
 > **"Security is not a product, it's a process — and it starts with permission."**
 
@@ -160,6 +175,8 @@ identity:
 
 <a id="arsenal"></a>
 ## 🧰 Arsenal
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Loading+arsenal...+tools+ready" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="360" alt=""/></div>
 
 ### 🔴 Security Tools
 
@@ -198,6 +215,8 @@ identity:
 
 <a id="languages"></a>
 ## 💻 Programming Languages
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Compiling+skills...+8+languages+loaded" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="380" alt=""/></div>
 
 <div align="center">
 
@@ -238,6 +257,8 @@ SQL         ██████░░░░  60%   database basics · injection d
 
 <a id="skilltree"></a>
 ## 🧠 Skill Tree
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Mapping+the+skill+tree..." alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="340" alt=""/></div>
 
 ```mermaid
 mindmap
@@ -288,6 +309,8 @@ mindmap
 <a id="radar"></a>
 ## 📡 Tech Radar
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Scanning+the+tech+radar..." alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="360" alt=""/></div>
+
 | Ring | Technologies | Meaning |
 |:----:|--------------|---------|
 | 🟢 **Adopt** | Linux · Python · Bash · Nmap · Burp Suite · Git | Daily drivers I trust |
@@ -333,6 +356,8 @@ flowchart LR
 
 <a id="projects"></a>
 ## 🚀 Projects
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Building+tools...+commit+by+commit" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="360" alt=""/></div>
 
 <div align="center">
 
@@ -383,6 +408,8 @@ flowchart LR
 
 <a id="codelab"></a>
 ## 🧪 Code Lab — Defensive Snippets
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Entering+the+code+lab..." alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="340" alt=""/></div>
 
 <div align="center">
 
@@ -616,6 +643,8 @@ Permissions-Policy: camera=(), microphone=(), geolocation=()
 <a id="owasp"></a>
 ## 🛡️ OWASP Top 10 — Study Notes
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Hunting+weakness+classes..." alt=""/><br/><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08edbce8-99d3-4ad2-9d04-7e0cd1f02eac" width="300" alt=""/></div>
+
 > Based on the **2021 edition**. Always check [owasp.org](https://owasp.org/www-project-top-ten/) for the latest version.
 
 | ID | Category | Core idea | Main defence |
@@ -644,6 +673,8 @@ pie showData title Where I'm practising most (approx.)
 
 <a id="cheatsheets"></a>
 ## 📒 Cheat Sheets
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Quick-reference+notes+loaded" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="260" alt=""/></div>
 
 > Quick-reference notes I keep for labs and study. Use them **only on systems you own or are authorised to test.**
 
@@ -767,6 +798,8 @@ OWASP, CWE, vendor docs.
 <a id="routine"></a>
 ## 🗓️ Weekly Routine
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Day+and+night%2C+the+grind+continues" alt=""/><br/><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="300" alt=""/></div>
+
 | Day | Focus | Output |
 |:---:|-------|--------|
 | **Mon** | Recon & enumeration practice | Notes on new techniques |
@@ -784,6 +817,8 @@ OWASP, CWE, vendor docs.
 <a id="library"></a>
 ## 📚 Library — What I Read & Recommend
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Reading+and+researching..." alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="360" alt=""/></div>
+
 | Book | Author | Why it helps |
 |------|--------|--------------|
 | *The Web Application Hacker's Handbook* | Dafydd Stuttard & Marcus Pinto | Foundation for web app testing |
@@ -796,6 +831,8 @@ OWASP, CWE, vendor docs.
 
 <a id="roadmap"></a>
 ## 🗺️ Roadmap
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Progress+loading...+keep+moving+forward" alt=""/><br/><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="360" alt=""/></div>
 
 ```mermaid
 timeline
@@ -848,6 +885,8 @@ gantt
 <a id="goals"></a>
 ## 🏆 Goals & Future Certifications
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Next+target+locked" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="340" alt=""/></div>
+
 | Goal | Type | Status |
 |------|------|:------:|
 | Web Application Penetration Testing skill-set | Skill | 🟢 In progress |
@@ -864,6 +903,8 @@ gantt
 <a id="stats"></a>
 ## 📊 GitHub Stats
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Fetching+live+statistics..." alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="340" alt=""/></div>
+
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=GhostMaskR&show_icons=true&theme=dark&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&hide_border=true"/>
@@ -877,6 +918,8 @@ gantt
 
 <a id="labs"></a>
 ## 🌐 Labs & Learning Resources
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Labs+online.+Practice+mode+ON" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="360" alt=""/></div>
 
 <div align="center">
 
@@ -903,6 +946,8 @@ gantt
 
 <a id="faq"></a>
 ## ❓ FAQ
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%3F%5D+Got+questions%3F+Ask+away." alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="260" alt=""/></div>
 
 <details>
 <summary><b>Do you test systems without permission?</b></summary>
@@ -944,6 +989,8 @@ Yes — see [ScanR](https://github.com/TocsiVector/ScanR) and [SmartSpamR](https
 <a id="connect"></a>
 ## 🤝 Connect
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Open+connection...+let%27s+collaborate" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="240" alt=""/></div>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Open+to+labs%2C+CTFs+%26+collaboration;Let%27s+build+something+secure." alt="connect"/>
@@ -973,6 +1020,8 @@ Yes — see [ScanR](https://github.com/TocsiVector/ScanR) and [SmartSpamR](https
 <div align="center">
 
 ## 🐍 Snake Game — Playing on My Contributions
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=30&lines=%5B%2B%5D+Game+mode%3A+the+snake+is+hungry" alt=""/><br/><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320" alt=""/></div>
 
 <sub>The snake eats my GitHub contributions automatically. Updated every 12 hours by GitHub Actions.</sub>
 
